@@ -1,5 +1,4 @@
-**This is p **\n\n@AI Executive Summary\n\n@Email Address\n\n**dasdasd**\n- **3213**\n- **3231**\n- **412412**\n- **231232323**\n- <u>_**213123**_<u>\n- **123123**\n\n****\n\n****\n| 1 | 21312312 |\n| --- | --- |\n| _**sadasd**__**dasdas**__**ddasd**_ | - 1<br>- <u>_2_<u><br>- 3<br> |\n\n\n\n**hehehehe**\n\n**dasdasdas**
-
+| Feature | Description |\n| --- | --- |\n| Pros | xxx |\n| **123** | - a<br>- 2<br>- 41\n<br> |\n| Cons | - a<br>- 2<br>- <u>_32_<u><br> |\n| m/w | Candidate Namedd |
 
 - a<br>&nbsp;&nbsp;- 2<br>&nbsp;&nbsp;&nbsp;&nbsp;- 41<br>
 
