@@ -21,4 +21,4 @@
 | dada | dadad |
 | --- | --- |
 | dadada | dadad |
-| &nbsp;&nbsp;- 123<br>&nbsp;&nbsp;- 123<br>&nbsp;&nbsp;- 123<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 21312<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 213123<br> | &nbsp;&nbsp;1. asddas<br>&nbsp;&nbsp;2. adasd<br>&nbsp;&nbsp;3. sadad<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <u>_**dasda**_<u><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. adsdada<br> |
+| &nbsp;&nbsp;* 123<br>&nbsp;&nbsp;- 123<br>&nbsp;&nbsp;- 123<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 21312<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 213123<br> | &nbsp;&nbsp;1. asddas<br>&nbsp;&nbsp;2. adasd<br>&nbsp;&nbsp;3. sadad<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <u>_**dasda**_<u><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. adsdada<br> |
