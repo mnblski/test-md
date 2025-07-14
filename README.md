@@ -1,3 +1,22 @@
+| Skill                                | Level        |
+|-------------------------------------|--------------|
+| Multilingual education              | Expert       |
+| Curriculum design                   | Expert       |
+| Digital integration                 | Expert       |
+| Blended learning models             | Expert       |
+| Student assessment                  | Expert       |
+| Feedback strategies                 | Expert       |
+| Inclusive teaching practices        | Expert       |
+| Special needs adaptation            | Expert       |
+| Professional development            | Expert       |
+| Teacher mentoring                   | Expert       |
+| Learning Platforms (Google Classroom, Microsoft Teams) | Proficient   |
+| Productivity Tools (Google Docs, Microsoft PowerPoint, Zoom, YouTube) | Proficient   |
+| Communication Tools (Gmail, Outlook, WhatsApp) | Proficient   |
+| Assessment Tools (Google Forms, basic Excel) | Proficient   |
+
+
+
 | a | b |
 | --- | --- |
 | c | d |
