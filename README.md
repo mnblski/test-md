@@ -1,3 +1,19 @@
+| Skill                                   | Level          |
+|-----------------------------------------|----------------|
+| Multilingual education                  | Expert         |
+| Curriculum design                       | Expert         |
+| Digital integration                     | Expert         |
+| Blended learning models                 | Expert         |
+| Student assessment and feedback         | Expert         |
+| Inclusive teaching practices            | Expert         |
+| Special needs adaptation                | Advanced       |
+| Professional development and mentoring  | Advanced       |
+| Learning platforms (Google Classroom, Microsoft Teams) | Advanced |
+| Productivity tools (Google Docs, Microsoft PowerPoint, Zoom, YouTube) | Advanced |
+| Communication tools (Gmail, Outlook, WhatsApp) | Advanced |
+| Assessment tools (Google Forms, basic Excel) | Intermediate |
+
+
 | Skill                                | Level        |
 |-------------------------------------|--------------|
 | Multilingual education              | Expert       |
@@ -14,6 +30,19 @@
 | Productivity Tools (Google Docs, Microsoft PowerPoint, Zoom, YouTube) | Proficient   |
 | Communication Tools (Gmail, Outlook, WhatsApp) | Proficient   |
 | Assessment Tools (Google Forms, basic Excel) | Proficient   |
+
+
+| Skill                                   | Level         |
+|-----------------------------------------|---------------|
+| Multilingual education and curriculum design | Expert        |
+| Digital integration and blended learning models | Expert        |
+| Student assessment and feedback strategies | Expert        |
+| Inclusive teaching practices and special needs adaptation | Expert        |
+| Professional development and teacher mentoring | Advanced      |
+| Learning Platforms: Google Classroom, Microsoft Teams | Advanced      |
+| Productivity Tools: Google Docs, Microsoft PowerPoint, Zoom, YouTube | Advanced      |
+| Communication Tools: Gmail, Outlook, WhatsApp | Advanced      |
+| Assessment Tools: Google Forms, basic Excel for grade tracking and analysis | Intermediate  |
 
 
 
