@@ -1,7 +1,6 @@
-| SKILL                                   | LEVEL       |\n|-----------------------------------------|-------------|\n| Multilingual education and curriculum design | Expert       |\n| Digital integration and blended learning models | Expert       |\n| Student assessment and feedback strategies | Expert       |\n| Inclusive teaching practices and special needs adaptation | Expert       |\n| Professional development and teacher mentoring | Expert       |\n| Learning Platforms: Google Classroom, Microsoft Teams | Proficient   |\n| Productivity Tools: Google Docs, Microsoft PowerPoint, Zoom, YouTube | Proficient   |\n| Communication: Gmail, Outlook, WhatsApp | Proficient   |\n| Assessment Tools: Google Forms, basic Excel for grade tracking and analysis | Proficient   |
-
-full_result after run_ai_calls: [{'text': '| SKILL                                   | LEVEL       |\n|-----------------------------------------|-------------|\n| Multilingual education and curriculum design | Expert       |\n| Digital integration and blended learning models | Expert       |\n| Student assessment and feedback strategies | Expert       |\n| Inclusive teaching practices and special needs adaptation | Expert       |\n| Professional development and teacher mentoring | Expert       |\n| Learning Platforms: Google Classroom, Microsoft Teams | Proficient   |\n| Productivity Tools: Google Docs, Microsoft PowerPoint, Zoom, YouTube | Proficient   |\n| Communication: Gmail, Outlook, WhatsApp | Proficient   |\n| Assessment Tools: Google Forms, basic Excel for grade tracking and analysis | Proficient   |', 'complete': True, 'hash': 388545504362102}]
-
+| Column A | Column B |
+| --- | --- |
+| - [ ] Top checkbox<br>&nbsp;&nbsp;- [ ] Nested level 1<br>&nbsp;&nbsp;&nbsp;&nbsp;- [x] Nested level 2 checked<br>&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Nested level 2 unchecked<br>&nbsp;&nbsp;- [x] Another nested level 1 | - [x] Top checked<br>&nbsp;&nbsp;- [ ] Nested unchecked<br>&nbsp;&nbsp;&nbsp;&nbsp;- [x] Deep nested checked<br>&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Deep nested unchecked<br>&nbsp;&nbsp;- [ ] Another nested |
 
 | SKILL | LEVEL | 
 | --- | --- | 
